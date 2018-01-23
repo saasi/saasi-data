@@ -1,0 +1,48 @@
+{
+    "AvgScale": {
+        "business_microservice": "16.302638664512656", 
+        "cpu_microservice": "1.9698438341410878", 
+        "io_microservice": "2.103448275862069", 
+        "memory_microservice": "24.54011847065159"
+    }, 
+    "ControllerNetInTotal": "2330496691.114179", 
+    "ControllerNetOutTotal": "1658961434.1250305", 
+    "ControllerTotalCpu": "283.92828573822146", 
+    "ControllerTotalMemory": "2485632693.742521", 
+    "CpuAverage": {
+        "business_microservice": "6.109563849638325", 
+        "cpu_microservice": "2.77271453328857", 
+        "io_microservice": "14.857223555153803", 
+        "memory_microservice": "4.010892363016848"
+    }, 
+    "MaxScale": {
+        "business_microservice": "22", 
+        "cpu_microservice": "2", 
+        "io_microservice": "5", 
+        "memory_microservice": "33"
+    }, 
+    "MemAverage": {
+        "business_microservice": "193407988.48317513", 
+        "cpu_microservice": "85712565.79710145", 
+        "io_microservice": "227561866.54937392", 
+        "memory_microservice": "225149850.8834077"
+    }, 
+    "NetInAverage": {
+        "business_microservice": "2256932.347413167", 
+        "cpu_microservice": "2884.5882271503856", 
+        "io_microservice": "184698.39063369267", 
+        "memory_microservice": "12707.168719908428"
+    }, 
+    "NetOutAverage": {
+        "business_microservice": "78392.96403515761", 
+        "cpu_microservice": "7919.895856847547", 
+        "io_microservice": "9477650.89049174", 
+        "memory_microservice": "13191.451881269275"
+    }, 
+    "TotalRequests": 266810, 
+    "TotalViolations": 72787, 
+    "WorkloadNetInTotal": "3991909317.2382555", 
+    "WorkloadNetOutTotal": "116708622048.50494", 
+    "WorkloadTotalCpu": "635.160498780193", 
+    "WorkloadTotalMemory": "14956542155.377697"
+}
