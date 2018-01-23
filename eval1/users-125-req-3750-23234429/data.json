@@ -1,0 +1,18 @@
+{
+    "AvgScale": "2.7485822306238186", 
+    "ControllerNetInTotal": "358218430.7612735", 
+    "ControllerNetOutTotal": "332900574.1492879", 
+    "ControllerTotalCpu": "137.6479464914181", 
+    "ControllerTotalMemory": "775418947.4197398", 
+    "CpuAverage": "32.805956753098584", 
+    "MaxScale": "3", 
+    "MemAverage": "212632124.9173844", 
+    "NetInAverage": "8134.290270586605", 
+    "NetOutAverage": "5064.843996173894", 
+    "TotalRequests": 3781, 
+    "TotalViolations": 1972, 
+    "WorkloadNetInTotal": "75635217.62065913", 
+    "WorkloadNetOutTotal": "47772529.51075276", 
+    "WorkloadTotalCpu": "252.0528418754123", 
+    "WorkloadTotalMemory": "806434061.2695293"
+}
